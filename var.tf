@@ -13,7 +13,7 @@ variable "aws_region" {
 variable "WIN_AMIS" {
   type =  "map" 
     default = {
-      us-east-2  = "ami-09d7f402df5fd27aa"
+      us-east-2  = "xxxxxxxxxx"
   }
 }
 
